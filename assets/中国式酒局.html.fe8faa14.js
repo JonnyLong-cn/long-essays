@@ -1,0 +1,1 @@
+const e={key:"v-091ed0d4",path:"/ego/%E4%B8%AD%E5%9B%BD%E5%BC%8F%E9%85%92%E5%B1%80.html",title:"\u4E2D\u56FD\u5F0F\u9152\u5C40",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1655458204e3,contributors:[{name:"JonnyLong-cn",email:"sylzy66sina@163.com",commits:1}]},filePathRelative:"ego/\u4E2D\u56FD\u5F0F\u9152\u5C40.md"};export{e as data};

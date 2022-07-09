@@ -1,0 +1,1 @@
+const t={key:"v-d2cd6620",path:"/essay/%E9%9A%8F%E7%AC%94/%E6%88%91%E7%9A%84%E4%B8%A4%E6%80%A7%E8%A7%82.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1655732893e3,contributors:[{name:"JonnyLong-cn",email:"sylzy66sina@163.com",commits:1}]},filePathRelative:"essay/\u968F\u7B14/\u6211\u7684\u4E24\u6027\u89C2.md"};export{t as data};

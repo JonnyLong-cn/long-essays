@@ -1,0 +1,1 @@
+const e={key:"v-7446483b",path:"/ego/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1655458204e3,contributors:[{name:"JonnyLong-cn",email:"sylzy66sina@163.com",commits:1}]},filePathRelative:"ego/index.md"};export{e as data};
